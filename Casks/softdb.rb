@@ -1,6 +1,6 @@
 cask "softdb" do
-  version "1.4.1"
-  sha256 "71db7e2471f975ba8f6cef762e2b108909987c911669635f887b9644667a114b"
+  version "1.4.2"
+  sha256 "8d4d1d457cf42dae7286b2db9694419be5398a4684e03efaa120217a0964405b"
 
   url "https://github.com/zane-tv/soft-db/releases/download/v#{version}/SoftDB-darwin-arm64.dmg"
   name "SoftDB"
